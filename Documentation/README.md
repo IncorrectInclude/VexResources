@@ -28,3 +28,8 @@ Here's some useful links.
  READ BEFORE EVEN THINKING OF MAKING AN AUTONOMOUS. Also
  look at the resources pearman links from this page. Good
  stuff, might get added to this guide later.
+ * [PROS](https://pros.cs.purdue.edu/)  
+ An alternative to VexCode or RobotMesh by
+ Purdue. This is a little more technical, but very powerful.
+ I haven't used it, and probably never will. Works on windows mac and 
+ linux.
