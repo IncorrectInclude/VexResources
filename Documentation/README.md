@@ -24,4 +24,4 @@ Here's some useful links.
  * [Pearman Documentation Post](https://www.vexforum.com/t/vexcode-motor-groups-and-drivetrain-example/69161)   
  This basically fills in the missing imformation
  on `vex::motor_group`, `vex::drivetrain`, and `vex::smartdrive`. This resource is priceless for 
- the lacking documentation on the Api reference.
+ the lacking documentation on the API reference.
