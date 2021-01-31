@@ -25,4 +25,6 @@ Here's some useful links.
  This basically fills in the missing imformation
  on `vex::motor_group`, `vex::drivetrain`, and `vex::smartdrive`. This resource is priceless for 
  the lacking documentation on the API reference. 
- READ BEFORE EVEN THINKING OF MAKING AN AUTONOMOUS.
+ READ BEFORE EVEN THINKING OF MAKING AN AUTONOMOUS. Also
+ look at the resources pearman links from this page. Good
+ stuff, might get added to this guide later.
