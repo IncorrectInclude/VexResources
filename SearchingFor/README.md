@@ -7,7 +7,7 @@ solve my problems, and help other people.
 
 ## Looking for
 
-I want a better way to do callbacks. The brain 
+I want a better way to handle events. The brain 
 has the method that takes a void pointer which is 
 okay, I guess, not the best implementation, imo. But, 
 the controller buttons, or the limit switch, does not
