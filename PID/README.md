@@ -1,9 +1,7 @@
-# Little Testing Program for PID
+# PID
 
-This repo is my little testing site for learning 
-how to use PID to turn and move the robot. The end
-goal being that hopefully I will be able to accurately
-turn the robot with minimal problems. PID is becoming
+
+PID is becoming
 mildly obsolete thanks to implementations by the Vex Team, 
 but perhaps it is still useful for some use cases. So 
 here's this. 
